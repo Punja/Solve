@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite">
+    <test name="Verify WordsStore" >
+        <classes>
+            <class name="com.dictionary.TestDictionary" >
+                <methods>
+                    <include name="testWordsSet"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Verify WordsStore class" >
+        <classes>
+            <class name="com.dictionary.TestDictionary" >
+                <methods>
+                    <include name="testWords"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
