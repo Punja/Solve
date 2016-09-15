@@ -1,7 +1,7 @@
 # interface-impl-task
 
 Description:
-Implementation IsDictionary interface. Class should store words and count how many times word as added. 
+Implementation IsDictionary interface. Class should store words and count how many times word is added. 
 
 Implementation:
 Class has been implemented using Java8, TestNG, Maven.
@@ -10,4 +10,4 @@ Test Data represented by set of words in one String object or Array of direct wo
 
 How to run:
 run mvn command from command line console:
-->mvn clean verify
+->mvn clean compile test
