@@ -8,6 +8,11 @@ public class TestData {
     protected static final String POSITIVE_SET_15 = "Apple, IBM, Watch, Select, Apple,null";
     protected static final String POSITIVE_SET_26 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
 
+
+    protected static final String POSITIVE_SET_34 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
+    protected static final String POSITIVE_SET_45 = "Apple, IBM, Watch, Select, Apple,null";
+    protected static final String POSITIVE_SET_56 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
+
     protected static final String POSITIVE_SET_1 = "Apple, IBM, Watch, Select, Apple,null";
     protected static final String POSITIVE_SET_2 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
     protected static final String POSITIVE_SET_3 = "Apple; Two    Apple One; NINE,Accord";
