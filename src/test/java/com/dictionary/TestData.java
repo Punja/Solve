@@ -1,6 +1,12 @@
 package com.dictionary;
 
 public class TestData {
+    protected static final String POSITIVE_SET_11 = "Apple, IBM, Watch, Select, Apple,null";
+    protected static final String POSITIVE_SET_22 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
+    protected static final String POSITIVE_SET_13 = "Apple, IBM, Watch, Select, Apple,null";
+    protected static final String POSITIVE_SET_24 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
+    protected static final String POSITIVE_SET_15 = "Apple, IBM, Watch, Select, Apple,null";
+    protected static final String POSITIVE_SET_26 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
 
     protected static final String POSITIVE_SET_1 = "Apple, IBM, Watch, Select, Apple,null";
     protected static final String POSITIVE_SET_2 = "IBM,Two,Apple,One,Apple  Maintenance; Maintenance";
